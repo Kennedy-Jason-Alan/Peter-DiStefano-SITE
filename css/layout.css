@@ -1,0 +1,182 @@
+/** BASIC */
+html,body {
+	height: 100%;
+}
+
+body.subpage {
+	
+}
+
+/** WRAPPER */
+#wrapper {
+	width: 970px;
+	margin: 0px auto;
+	padding: 0px 0px 30px 0px;
+	background: url(../images/layout/bg06.gif) no-repeat left bottom;
+}
+
+#page {
+	float: left;
+	width: 770px;
+}
+
+#extra1 {
+	float: left;
+	width: 100px;
+	height: 800px;
+	background: url(../images/layout/bg02.jpg) no-repeat left top;
+}
+
+.subpage #extra1 {
+	background-image: url(../images/layout/subpage1_04.jpg);
+}
+
+#extra2 {
+	float: left;
+	width: 100px;
+	height: 800px;
+	background: url(../images/layout/bg03.jpg) no-repeat left top;
+}
+
+.subpage #extra2 {
+	background-image: url(../images/layout/subpage1_05.jpg);
+}
+
+/** HEADER */
+#header {
+	width: 770px;
+	height: 139px;
+}
+
+#logo {
+	float: left;
+	width: 328px;
+	height: 139px;
+	background: url(../images/layout/logo.png) no-repeat left top;
+}
+
+#logo h1 {
+	display: none;
+}
+
+/** MENU */
+#menu {
+	float: left;
+	width: 442px;
+	height: 139px;
+}
+
+#menu ul {
+	margin: 0px;
+	padding: 90px 0px 0px 0px;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	padding: 0px 20px 0px 30px;
+	background: url(../images/layout/homepage04.jpg) no-repeat left center;
+}
+
+#menu .first a {
+	padding-left: 25px;
+	background: none;
+}
+
+/** CONTENT */
+#content {
+	padding: 22px 26px 0px 26px;
+}
+
+.content {
+	padding: 14px;
+}
+
+#left {
+	float: left;
+	width: 438px;
+}
+
+#right {
+	float: right;
+	width: 248px;
+}
+
+/** FOOTER */
+#footer {
+	clear: both;
+	width: 970px;
+	height: 60px;
+	margin: 0px auto;
+	padding-top: 20px;
+}
+
+/** BOX1 */
+#box1 {
+	
+}
+
+/** BOX2 */
+#box2 {
+	margin-bottom: 30px;
+}
+
+/** BOX3 */
+#box3 {
+	margin-bottom: 20px;
+}
+
+#box3 ul {
+	margin: 0px;
+	padding: 15px 0px 0px 0px;
+	list-style: none;
+}
+
+#box3 li {
+	display: block;
+	float: left;
+	padding: 0px 0px 0px 23px;
+}
+
+/** BOX4 */
+#box4 {
+	margin-bottom: 15px;
+}
+
+/** BOX5 */
+#box5 {
+	
+}
+
+#box5 .text5 {
+	margin-bottom: 15px;
+}
+
+#box5 .title {
+	height: 34px;
+}
+
+#box5 .title h3 {
+	float: left;
+	padding: 10px 0px 0px 15px;
+}
+
+#box5 .title h4 {
+	float: right;
+	padding: 10px 15px 0px 0px;
+}
+
+/** BOX6 */
+#box6 {
+	
+}
+
+/** BOX7 */
+#box7 {
+	
+}
